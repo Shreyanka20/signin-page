@@ -1,0 +1,115 @@
+
+.App {
+  background: rgb(216,64,137);
+  background: linear-gradient(0deg, rgba(216,64,137,1) 0%, rgba(41,105,177,1)42%);
+
+}
+
+.App-image{
+  width: 60%;
+} 
+
+.App-text{
+  width: 40%;
+}
+
+.Logo {
+  /*height: 40vmin;*/
+  height: 90px;
+  width: 150px;
+  top: 1px;
+  left: 50px;
+  position: absolute;
+}
+
+.App-Bg{
+  position: relative;
+}
+.App-background{
+  top: 0;
+  left: 0;
+  height: 550px;
+  width: 800px;
+}
+
+
+.h1{
+  position: absolute;
+  top: 5%;
+  right: 16%;
+  color:whitesmoke ;
+  font-family: "Times New Roman", Times, serif;
+}
+.h2{
+  position: absolute;
+  top: 20%;
+  right: 11.6%;
+  color:whitesmoke ;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.h4{
+  position: absolute;
+  top: 26%;
+  right: 8%;
+  text-align: center;
+  color:whitesmoke ;
+}
+.h2-1{
+  position: absolute;
+  top: 40%;
+  right: 17.2%;
+  color:whitesmoke ;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.text-input{
+  position: absolute;
+  top: 51%;
+  right: 16%;
+  border: none;
+  border-radius: 30px;  
+  background-color: rgb(216,64,137);
+  padding: 8px 20px;
+}
+.text-button{
+  position: absolute;
+  top: 63%;
+  right: 25%;
+  border: none;
+  border-radius: 25px;  
+  background-color: rgb(216,64,137);
+  color: antiquewhite;
+  padding: 12px 30px;
+  cursor: pointer;
+}
+.text-button1{
+  position: absolute;
+  top: 63%;
+  right: 13.5%;
+  border: none;
+  border-radius: 25px;  
+  background-color: rgb(216,64,137);
+  color: antiquewhite;
+  padding: 12px 30px;
+  cursor: pointer;
+}
+.text-button2{
+  position: absolute;
+  top: 75%;
+  right: 18.5%;
+  border: none;
+  background-color: transparent;
+  color: antiquewhite;
+  font-family: "Lucida Console", "Courier New", monospace;
+  cursor: pointer;
+  font-size: medium;
+}
+.text-button3{
+  position: absolute;
+  top: 81%;
+  right: 19.5%;
+  border: none;
+  background-color: transparent;
+  color: antiquewhite;
+  font-family: "Lucida Console", "Courier New", monospace;
+  cursor: pointer;
+}
